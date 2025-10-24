@@ -11,7 +11,7 @@
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate dev",
     "db:reset": "prisma migrate reset",
-    "homepage": "https://gravastar3.github.io/penerbangan-",
+    "homepage": "https://github.com/gravastar3/PENERBANGAN-INDONESIA.git",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
