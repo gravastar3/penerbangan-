@@ -287,8 +287,7 @@ export default function Home() {
                 Visualisasi Rute Penerbangan Indonesia
               </h1>
               <p className="mt-2 text-gray-600">
-                Jelajahi rute penerbangan antar bandara di Indonesia dengan interaktif
-              </p>
+                  KELOMPOK 2              </p>
             </div>
             <motion.div
               whileHover={{ scale: 1.05 }}
@@ -506,19 +505,6 @@ export default function Home() {
                 </div>
               ))}
             </div>
-          </div>
-          
-          <div className="mt-4 p-3 bg-blue-50 rounded-lg">
-            <h4 className="text-sm font-medium text-blue-800 mb-2">💡 Fitur Baru:</h4>
-            <ul className="text-xs text-blue-700 space-y-1">
-              <li>• Kontrol di kanan peta untuk toggle marker & garis</li>
-              <li>• Filter maskapai untuk melihat rute per maskapai</li>
-              <li>• Warna berbeda untuk setiap maskapai</li>
-              <li>• Tombol "Semua"/"None" untuk quick filter</li>
-              <li>• Detail rute muncul di bawah peta setelah pencarian</li>
-              <li>• Perhitungan jarak antar bandara dengan rumus Haversine</li>
-              <li>• Visualisasi bobot graf pada peta dan tabel detail</li>
-            </ul>
           </div>
           
           <div className="mt-4 p-3 bg-gray-50 rounded-lg">

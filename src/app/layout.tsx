@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   authors: [{ name: "Flight Visualization Team" }],
   openGraph: {
     title: "Visualisasi Rute Penerbangan Indonesia",
-    description: "Jelajahi rute penerbangan antar bandara di Indonesia dengan interaktif",
+    description: "Jelajahi rute penerbangan antar bandara di Indonesia dengainteraktifn ",
     url: "https://localhost:3000",
     siteName: "Flight Routes Indonesia",
     type: "website",
